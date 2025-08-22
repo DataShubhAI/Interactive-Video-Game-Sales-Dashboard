@@ -1,4 +1,3 @@
-# Interactive-Video-Game-Sales-Dashboard
 #  Interactive Video Game Sales Dashboard 
 
 This project is an interactive dashboard built with Tableau that visualizes video game sales data. It allows users to dynamically analyze sales trends based on various filters like region, year, and genre. This project is based on a YouTube tutorial.
